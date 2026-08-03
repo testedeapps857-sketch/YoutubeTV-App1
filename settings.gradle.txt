@@ -1,0 +1,2 @@
+rootProject.name = "YoutubeTV-App"
+include ':app'
